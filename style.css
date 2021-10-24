@@ -1,0 +1,139 @@
+body{
+    background: #030303;
+    font-family: sans-serif;
+}
+#section-top{
+    padding: 15px;
+    background: #030303;
+    font-weight: bolder;
+}
+.spotify{
+  font-size: 25px; 
+  padding-left: 70px;
+  color: #fff;
+}
+.premium{
+    padding-left: 50%;
+    font-size: 15px;
+    color: #fff;
+}
+.support{
+    padding-left: 20px;
+    font-size: 15px;
+    color: #fff;
+}
+.download{
+    padding-left: 20px;
+    font-size: 15px;
+    color: #fff;  
+}
+.sign-up{
+    padding-left: 25px;
+    font-size: small;
+    color: #eae9fa; 
+}
+.login{
+    padding-left: 25px;
+    font-size: small;
+    color: #eae9fa; 
+}
+#body-content{
+    background-image: url(image02.jpg);
+    width: 100%;
+    height: 90vh;
+}
+.listning{
+    padding-left: 10%;
+    font-size: 100px;
+    font-weight: 790;
+    color: #48a92e;
+}
+.everything{
+    padding-left: 23%;
+    font-size: 100px;
+    font-weight: 790;
+    color: #48a92e;
+}
+.millions{
+    font-weight: bolder;
+    padding-left: 40%;
+    color: #0468c9;
+}
+.botton{
+    margin-left: 49%;
+}
+button{
+    color: #fff;
+    background: #0468c9;
+    padding: 15px;
+    border-radius: 23px;
+}
+#continer-con{
+    color: #fff;
+    padding-top: 80px;
+    padding-left: 80px;
+    display: flex
+}
+.icon-spotfy{
+    font-weight: bolder;
+    font-size: 25px;
+
+}
+.company{
+    padding-left: 4%;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #fff;
+}
+.community{
+    padding-left: 7%;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #fff;
+}
+.useful{
+    padding-left: 7%;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #fff;
+}
+.instergram{
+    padding-left: 20%;
+    margin-top: 50px;
+}
+.facebok{
+    padding-left: 5px;
+    margin-top: 50px;
+}
+.tweeter{
+    padding-left: 5px;
+    margin-top: 50px;
+}
+#footer{
+    color: #0468c9;
+    margin-top: 130px;
+    padding-bottom: 50px;
+    font-size: 11px;
+    display: flex;
+}
+.legal{
+    padding-left: 8%;
+}
+.privacy{
+    padding-left: 2%;
+}
+.policy{
+    padding-left: 2%;
+}
+.cookies{
+    padding-left: 2%;
+}
+.about-ad{
+    padding-left: 2%;
+}
+.additional{
+    padding-left: 2%;
+}
+.usa{
+    padding-left: 35%;
+}
